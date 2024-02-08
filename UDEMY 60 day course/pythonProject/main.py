@@ -2,6 +2,7 @@
 import functions
 import time
 
+
 while True:
     # Get user input and strip space characters from it
     user_action = input("Type add or show, edit, complete or exit: ")
